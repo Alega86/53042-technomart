@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="16" viewBox="0 0 17 16">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 17px;
+        opacity: 0.3;
+        fill: #fff;
+        font-family: symbols-technomart, symbols;
+      }
+    </style>
+  </defs>
+  <text id="_.icon-basket" data-name=".icon-basket" class="cls-1" x="1.027" y="14.472">b</text>
+</svg>

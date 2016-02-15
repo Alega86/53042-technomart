@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="17" viewBox="0 0 20 17">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 22px;
+        fill: #c5c5c5;
+        font-family: symbols-technomart, symbols;
+      }
+    </style>
+  </defs>
+  <text id="_.icon-login" data-name=".icon-login" class="cls-1" x="1.028" y="16.472">⎆</text>
+</svg>
